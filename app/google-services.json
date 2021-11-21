@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "67818827728",
+    "project_id": "registro-f734e",
+    "storage_bucket": "registro-f734e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67818827728:android:94a91b23910a35af2413d5",
+        "android_client_info": {
+          "package_name": "mx.edu.utng.firebaseautentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "67818827728-21jcibq2n1e0hfcacu9bq9rnqannhfr4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDv7BTWYD2y-LZ4bgGKnF79oYeAAuFwjqQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "67818827728-21jcibq2n1e0hfcacu9bq9rnqannhfr4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
